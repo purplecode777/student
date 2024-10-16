@@ -41,3 +41,7 @@ print(a*b)
 str = "Good morning have a nice day"
 a = str.index("m")
 print(a)
+
+#reverse a string
+txt = "Hello World"[::-1]
+print(txt)
